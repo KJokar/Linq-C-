@@ -37,11 +37,3 @@ Each section demonstrates one of the core LINQ operator categories in C#, includ
 - **Press Enter** to step through each LINQ category interactively  
 - Great for **learning LINQ** or **teaching beginners**
 
----
-
-## 🧩 How to Run
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/Linq-Notebook.git
-   cd Linq-Notebook
