@@ -1,11 +1,11 @@
-# LINQ Notebook 🎓
+# LINQ🎓
 
 A complete **C# Console Application** demonstrating all major **LINQ** concepts —  
 built as an interactive educational project.
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project is a **step-by-step LINQ tutorial** implemented in a single console app.  
 Each section demonstrates one of the core LINQ operator categories in C#, including:
@@ -28,12 +28,4 @@ Each section demonstrates one of the core LINQ operator categories in C#, includ
 | **Conversion** | `ToList`, `ToArray`, `ToDictionary`, `Cast`, `OfType` |
 | **Concatenation** | `Concat`, `Append`, `Prepend` |
 
----
-
-## 🧠 Features
-
-- Clean and readable **C# code**
-- English comments and printed output for clarity  
-- **Press Enter** to step through each LINQ category interactively  
-- Great for **learning LINQ** or **teaching beginners**
 
